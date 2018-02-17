@@ -60,4 +60,5 @@ typings/
 # Stuff
 
 node_modules
+config.json
 
